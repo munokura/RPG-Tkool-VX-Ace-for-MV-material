@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":4,"characterName":"Actor4","classId":1,"equips":[13,0,11,2,0],"faceIndex":0,"faceName":"face","traits":[],"initialLevel":1,"maxLevel":25,"name":"アルス","nickname":"マイペース青年","note":"","profile":"この物語の主人公の青年。\nマイペースな性格だが悪しき精霊の影響を受けている。"},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"Actor4","classId":2,"equips":[20,0,11,2,0],"faceIndex":2,"faceName":"face","traits":[],"initialLevel":1,"maxLevel":25,"name":"リンダ","nickname":"幼馴染","note":"","profile":"\\n[1]の幼馴染にして、一番の理解者。\n活発な性格で\\n[1]を引っ張る。"},
+{"id":3,"battlerName":"","characterIndex":2,"characterName":"Actor5","classId":3,"equips":[2,0,11,2,0],"faceIndex":4,"faceName":"face","traits":[],"initialLevel":4,"maxLevel":25,"name":"トルマン","nickname":"孤高の正義漢","note":"","profile":"ソラナス村で誤解を受けた青年。\n小さな悪でも見逃せない性格。"},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"ドグマル","nickname":"","note":"","profile":"※勇者が受ける精神疾患の名前。文字変数として使用。"}
+]

@@ -1,0 +1,46 @@
+Skill 1 攻撃: Damage Formula: a.atk - b.def / 2 + 1
+Skill 3 連続攻撃: Damage Formula: a.atk * 4 - b.def * 2
+Skill 4 ２回攻撃: Damage Formula: a.atk - b.def / 2 + 1
+Skill 5 ３回攻撃: Damage Formula: a.atk - b.def / 2 + 1
+Skill 8 炎の息: Damage Formula: a.atk
+Skill 10 電撃: Damage Formula: a.atk
+Skill 21 体当たり: Damage Formula: a.atk - b.def / 2 + 1
+Skill 24 瞑想: Damage Formula: b.mhp / 4
+Skill 28 癒しの祈り＋＋: Damage Formula: b.mhp
+Skill 30 癒しの雫＋: Damage Formula: b.mhp
+Skill 33 命の光: Damage Formula: b.mhp / 2
+Skill 34 命の光＋: Damage Formula: b.mhp
+Skill 47 死の歌: Damage Formula: a.atk - b.def / 2
+Skill 51 火炎: Damage Formula: 13 + ( a.mat  - b.mdf / 2 ) / 2
+Skill 52 爆炎: Damage Formula: 35 + ( a.mat  - b.mdf / 2 ) / 2
+Skill 53 炎の嵐: Damage Formula: 90 + ( a.mat  - b.mdf / 2 ) / 2
+Skill 54 フレイムⅡ: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 55 氷結: Damage Formula: 15 + ( a.mat  - b.mdf / 2 ) / 2
+Skill 56 どか氷: Damage Formula: 70 + ( a.mat  - b.mdf / 2 ) / 2
+Skill 57 大氷柱: Damage Formula: 120 + ( a.mat  - b.mdf / 2 ) / 2
+Skill 58 ブリザードⅡ: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 59 雷球: Damage Formula: 29 + ( a.mat  - b.mdf / 2 ) / 2
+Skill 60 大雷球: Damage Formula: 45 + ( a.mat  - b.mdf / 2 ) / 2
+Skill 80 強撃: Damage Formula: ( a.atk - b.def / 2 ) * 3.5
+Skill 81 乱れ撃ち: Damage Formula: ( a.atk - b.def / 2 ) * 2
+Skill 82 ミラクルスマッシュ: Damage Formula: ( a.atk - b.def / 2 ) * 6
+Skill 103 二回攻撃: Damage Formula: a.atk - b.def / 2 + 1
+Skill 109 炎の連撃: Damage Formula: a.atk - b.def / 2 + 1
+Skill 138 切り裂く風: Damage Formula: a.atk - b.def / 2
+Skill 139 かまいたち: Damage Formula: 90 + ( a.mat  - b.mdf / 2 ) / 2
+Skill 143 毒足: Damage Formula: a.atk - b.def / 2
+Skill 144 炎の息: Damage Formula: 30 + ( a.mat  - b.mdf / 2 ) / 2
+Skill 146 毒針: Damage Formula: a.atk - b.def / 2
+Skill 149 猛毒の牙: Damage Formula: a.atk - b.def / 2
+Skill 150 大きなカマ: Damage Formula: a.atk - b.def / 2
+Skill 151 なぎはらい: Damage Formula: a.atk - b.def / 2 + 10
+Skill 152 死の息: Damage Formula: a.atk - b.def / 2
+Skill 153 炎の息: Damage Formula: 60 + ( a.mat  - b.mdf / 2 ) / 2
+Skill 155 死の歌: Damage Formula: a.atk - b.def / 2
+Skill 156 痺れる針: Damage Formula: a.atk - b.def / 2 + 1
+Skill 157 毒の刃: Damage Formula: a.atk - b.def / 2
+Skill 160 炎の息: Damage Formula: 85 + ( a.mat  - b.mdf / 2 ) / 2
+Skill 168 氷の息: Damage Formula: 80 + ( a.mat  - b.mdf / 2 ) / 2
+Skill 170 炎の嵐（敵）: Damage Formula: 85 + ( a.mat  - b.mdf / 2 ) / 2
+Item 5 きつけ薬: Damage Formula: b.mhp / 2
+Map 158 古代の洞窟７－２ - Event 5 EV005 (8,6) - Page 1 Line 33:  - Move Route Script call: this.setBlendMode(2);
